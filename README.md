@@ -1,2 +1,3 @@
 # Git Practice
-Practice Using Git
+Nothing much
+Just Practice Using Git
