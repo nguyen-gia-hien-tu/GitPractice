@@ -1,3 +1,3 @@
 # Git Practice
-Nothing much
+Nothing much \n
 Just Practice Using Git
