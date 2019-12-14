@@ -1,2 +1,2 @@
-#GitPractice
+# Git Practice
 Practice Using Git
