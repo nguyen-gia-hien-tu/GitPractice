@@ -1,1 +1,2 @@
 Hello, I'm practice using vim rn
+Yep, still practicing vim and git
