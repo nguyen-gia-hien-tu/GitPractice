@@ -1,2 +1,5 @@
 Hello, I'm practice using vim rn
 Yep, still practicing vim and git
+Hello hello, it's me again :))
+haha
+Trying to know what's the difference between git revert and git reset
